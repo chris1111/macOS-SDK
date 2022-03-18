@@ -1,6 +1,6 @@
-# macOS--SDK
+# macOS-SDK
 
-#### Install macOS SDK on newer Xcode
+#### Install old macOS SDK on newer Xcode
 
 ----------------------------------------------------
 
