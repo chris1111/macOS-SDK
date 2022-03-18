@@ -14,3 +14,5 @@
 8. Restart Xcode
 
 MacOSX12.1.sdk should now be available for selection and building.
+
+![Screen Shot 2022-03-18 at 2 26 22 PM](https://user-images.githubusercontent.com/6248794/159061908-a67f1355-e76d-4023-b351-e131d9d924d2.png)
