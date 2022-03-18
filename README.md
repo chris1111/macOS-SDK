@@ -3,6 +3,7 @@
 #### Install old macOS SDK on newer Xcode
 
 ----------------------------------------------------
+### You need registered with Apple Developer
 
 1. Go to https://developer.apple.com/downloads/index.action and download `Xcode xxx of your choice` 
 2. Or use https://xcodereleases.com/ and download `Xcode xxx of your choice` 
