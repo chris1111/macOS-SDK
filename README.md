@@ -5,13 +5,14 @@
 ----------------------------------------------------
 
 1. Go to https://developer.apple.com/downloads/index.action and download `Xcode xxx of your choice` 
-2. Open the application by clicking `Show Package Content`
-3. Navigate to `/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs`
-4. Copy the `MacOSX.sdk` in a empty folder then rename of the Xcode Version `MacOSX12.1.sdk` as exemple
-5. 5. Navigate to /Applications/XCode.app and click `Show Package Content`
-6. Navigate to `/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs`
-7. Paste the copied `MacOSX12.1.sdk` folder
-8. Restart Xcode
+2. Or use https://xcodereleases.com/ and download `Xcode xxx of your choice` 
+3. Open the application by clicking `Show Package Content`
+4. Navigate to `/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs`
+5. Copy the `MacOSX.sdk` in a empty folder then rename of the Xcode Version `MacOSX12.1.sdk` as exemple
+6. 5. Navigate to /Applications/XCode.app and click `Show Package Content`
+7. Navigate to `/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs`
+8. Paste the copied `MacOSX12.1.sdk` folder
+9. Restart Xcode
 
 MacOSX12.1.sdk should now be available for selection and building.
 
